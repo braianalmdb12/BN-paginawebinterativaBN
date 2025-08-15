@@ -1,0 +1,16 @@
+body {
+    color: blue;
+    background: rgb(12, 232, 210);
+    margin-right: 0px;
+
+
+}
+
+header {
+
+     border-bottom: solid 2px rgb(12, 232, 210);
+     padding: 20px;
+     font-size: 32px;
+     color: rgb(12, 232, 210);
+
+}
